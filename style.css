@@ -1,0 +1,64 @@
+.balsamic {
+    font-family: 'Balsamiq Sans', cursive;
+    font-weight: bold;
+}
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+.bangars {
+    font-family: 'Bangers', cursive;
+}
+.noto {
+    font-family: 'Noto Sans Arabic', sans-serif;
+}
+.letterSpacing1 {
+    letter-spacing: 0.1em;
+}
+.letterSpacing2 {
+    letter-spacing: 0.05em;
+}
+.primaryColor {
+    color: #0A0C18 !important;
+}
+.secondaryColor {
+    color: #F3C626 !important;  
+}
+.thirdColor {
+    color: #12142A !important;  
+}
+.primaryColorpg {
+    background-color: #0A0C18 !important;
+}
+.secondaryColorpg {
+    background-color: #F3C626 !important;  
+}
+.thirdColorpg {
+    background-color: #12142A !important;  
+}
+.searchBar {
+    border-radius: 18px;
+}
+.carousel-item {
+    height: 26rem;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.card {
+    transition: transform 0.5s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+
+/* section{
+    padding: 25px;
+    display: flex;
+    gap: 600px;
+    margin: 25px;
+} */
+
+
